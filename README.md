@@ -27,22 +27,7 @@
 >
 > To use Unstructured.io based solution, refer release - [v2.0](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/tree/v2.0).
  
-## 📚 Table of Contents
-- [Overview](#overview)
-- [Demo](#demo)
-- [Technical Flow Chart](#technical-flowchart)
-- [Key Features](#key-features)
-- [Tech Stack](#technology-stack)
-- [Installation and Setup](#installation-setup)
-  - [Using Docker](#docker-setup)
-  - [Manual Installation](#manual-setup)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
-- [Citing](#citing)
-- [Contact](#contact)
 
-----
 
 ## 📌 Overview <a name="overview"></a>
 
@@ -73,17 +58,6 @@ For learners: Refer `agents/README.md` for detailed explanation of the agentic w
 
 ---
 
-## 💫 Demo <a name="demo"></a>
-
-
-https://github.com/user-attachments/assets/d27d4a2e-1c7d-45e2-bbc5-b3d95ccd5b35
-
-
-If you like what you see and would want to support the project's developer, you can <a href="https://www.buymeacoffee.com/souvikmajumder" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> ! :)
-
-📂 **For an even more detailed demo video**: Check out [`Multi-Agent-Medical-Assistant-v1.9`](assets/Multi-Agent-Medical-Assistant-v1.9_Compressed.mp4). 📽️
-
----
 
 ## 🛡️ Technical Flow Chart  <a name="technical-flowchart"></a>
 
@@ -182,7 +156,7 @@ If you like what you see and would want to support the project's developer, you 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant.git
+git clone https://github.com/digvijay6/Multi-Agent-Medical-Assistant.git
 cd Multi-Agent-Medical-Assistant
 ```
 
@@ -294,7 +268,7 @@ docker logs medical-assistant-app
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant.git  
+git clone https://github.com/digvijay6/Multi-Agent-Medical-Assistant.git  
 cd Multi-Agent-Medical-Assistant  
 ```
 
@@ -393,12 +367,6 @@ This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LIC
 
 ---
 
-## 📬 Contact  <a name="contact"></a>
-For any questions or collaboration inquiries, reach out to **Souvik Majumder** on:  
-
-🔗 **LinkedIn**: [https://www.linkedin.com/in/souvikmajumder26](https://www.linkedin.com/in/souvikmajumder26)
-
-🔗 **GitHub**: [https://github.com/souvikmajumder26](https://github.com/souvikmajumder26)
 
 <p align="right">
  <a href="#top"><b>🔝 Return </b></a>
