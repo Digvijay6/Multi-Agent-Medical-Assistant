@@ -344,26 +344,7 @@ python ingest_rag_data.py --dir ./data/raw
 ---
 
 ## 🤝 Contributions  <a name="contributions"></a>
-Contributions are welcome! Please check the [issues](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/issues) tab for feature requests and improvements.  
-
----
-
-## ⚖️ License  <a name="license"></a>
-This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📝 Citing <a name="citing"></a>
-```
-@misc{Souvik2025,
-  Author = {Souvik Majumder},
-  Title = {Multi Agent Medical Assistant},
-  Year = {2025},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant}}
-}
-```
+Contributions are welcome! Please check the [issues](https://github.com/Digvijay6/Multi-Agent-Medical-Assistant/issues) tab for feature requests and improvements.  
 
 ---
 
